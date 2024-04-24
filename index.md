@@ -2,7 +2,11 @@
 
 I am an environmental educator in Honolulu, Hawaii at the Hawaii Nature Center. 
 ### Hello!
-![Me in Alaska](Sarah_AKglacier.jpg)
+<img
+src="Sarah_AKglacier.jpg"
+alt="Me in Alaska"
+width = "50%"/>
+
 
 ##### How to reach me:
 - Email
